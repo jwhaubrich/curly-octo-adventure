@@ -1,0 +1,1 @@
+Not sure what just happened there. I was messing around with VI and it brought me back to the oldest change that I made with this text file. I don't remember the key that I used to do that, so I think later on either today or some time this weekend I'll take some VI training :). Oh yea... Now let's save this file. 
